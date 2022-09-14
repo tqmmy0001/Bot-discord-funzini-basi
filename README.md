@@ -3,3 +3,9 @@ All'interno del bot possiamo trovare funzioni basi tipo : ( ticket system, verif
 
 
 Ricordatevi che quando scaricate i pacchetti fate questo npm i discord.js@13 , sennò vi passa in v14
+
+Vi ricordo inoltre che quest bot è sotto licenza di github quindi non rivendibile 
+
+
+
+Pero problemi “)Tqmmy#0001
